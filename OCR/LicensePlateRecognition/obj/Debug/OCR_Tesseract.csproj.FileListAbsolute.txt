@@ -1,0 +1,18 @@
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\obj\Debug\OCR_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.OCR.resources
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\obj\Debug\OCR_Tesseract.csproj.GenerateResource.Cache
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+C:\Users\Ömer\Desktop\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe.config
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.exe
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.pdb
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.exe
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\bin\Debug\LicensePlateRecognition.pdb
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\obj\Debug\OCR_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.OCR.resources
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\obj\Debug\LicensePlateRecognition.Properties.Resources.resources
+C:\Users\Ömer\Documents\Ömer Belgeler\Üniversite\4.Sınıf (2016-2017)\7.Yarıyıl (Güz Yarıyılı)\Dersler\Görüntü İşleme\Proje\OCR\LicensePlateRecognition\obj\Debug\OCR_Tesseract.csproj.GenerateResource.Cache
